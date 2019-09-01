@@ -1,0 +1,20 @@
+Manchester United: 14
+Leicester City: 11
+Newcastle United: 15
+Tottenham Hotspur: 17
+AFC Bournemouth: 1
+Cardiff City: 5
+Fulham: 9
+Crystal Palace: 7
+Huddersfield Town: 10
+Chelsea: 6
+Watford: 18
+Brighton & Hove Albion: 3
+Wolverhampton Wanderers: 20
+Everton: 8
+Liverpool: 12
+West Ham United: 19
+Southampton: 16
+Burnley: 4
+Arsenal: 2
+Manchester City: 13
