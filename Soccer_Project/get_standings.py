@@ -3,11 +3,11 @@ import numpy as np
 import json
 import requests
 import os.path
-save_path = '/home/lucaono13/Documents/League Standings/'
+save_path = '/home/lucaono13/Documents/Soccer_Project/League_Standings/'
 
 serie_a_table = requests.get('https://api-football-v1.p.rapidapi.com/v2/leagueTable/891',headers = {'X-RapidAPI-Key' : '9cd6c83d63msh4525a1ecc10ff3ep1a4e35jsnbcb3e792b9e4', 'Accept' : 'application/json'})
 
-completeName = os.path.join(save_path, "serie_a.txt")
+completeName = os.path.join(save_path, "serie_a.json")
 serie_a = serie_a_table.json()
 serie_a = json.dumps(serie_a)
 with open(completeName,'w') as f:
@@ -15,7 +15,7 @@ with open(completeName,'w') as f:
 
 epl_table = requests.get('https://api-football-v1.p.rapidapi.com/v2/leagueTable/524',headers = {'X-RapidAPI-Key' : '9cd6c83d63msh4525a1ecc10ff3ep1a4e35jsnbcb3e792b9e4', 'Accept' : 'application/json'})
 
-completeName = os.path.join(save_path, "epl.txt")
+completeName = os.path.join(save_path, "epl.json")
 epl = epl_table.json()
 epl = json.dumps(epl)
 with open(completeName,'w') as f:
@@ -23,7 +23,7 @@ with open(completeName,'w') as f:
 
 bundes_table = requests.get('https://api-football-v1.p.rapidapi.com/v2/leagueTable/754',headers = {'X-RapidAPI-Key' : '9cd6c83d63msh4525a1ecc10ff3ep1a4e35jsnbcb3e792b9e4', 'Accept' : 'application/json'})
 
-completeName = os.path.join(save_path, "bundes.txt")
+completeName = os.path.join(save_path, "bundes.json")
 bundes = bundes_table.json()
 bundes = json.dumps(bundes)
 with open(completeName,'w') as f:
@@ -31,7 +31,7 @@ with open(completeName,'w') as f:
 
 ligue1_table = requests.get('https://api-football-v1.p.rapidapi.com/v2/leagueTable/525',headers = {'X-RapidAPI-Key' : '9cd6c83d63msh4525a1ecc10ff3ep1a4e35jsnbcb3e792b9e4', 'Accept' : 'application/json'})
 
-completeName = os.path.join(save_path, "ligue1.txt")
+completeName = os.path.join(save_path, "ligue1.json")
 ligue1 = ligue1_table.json()
 ligue1 = json.dumps(ligue1)
 with open(completeName,'w') as f:
@@ -39,7 +39,7 @@ with open(completeName,'w') as f:
 
 laliga_table = requests.get('https://api-football-v1.p.rapidapi.com/v2/leagueTable/920',headers = {'X-RapidAPI-Key' : '9cd6c83d63msh4525a1ecc10ff3ep1a4e35jsnbcb3e792b9e4', 'Accept' : 'application/json'})
 
-completeName = os.path.join(save_path, "laliga.txt")
+completeName = os.path.join(save_path, "laliga.json")
 laliga = laliga_table.json()
 laliga = json.dumps(laliga)
 with open(completeName,'w') as f:
@@ -47,7 +47,7 @@ with open(completeName,'w') as f:
 
 mls_table = requests.get('https://api-football-v1.p.rapidapi.com/v2/leagueTable/294',headers = {'X-RapidAPI-Key' : '9cd6c83d63msh4525a1ecc10ff3ep1a4e35jsnbcb3e792b9e4', 'Accept' : 'application/json'})
 
-completeName = os.path.join(save_path, "mls.txt")
+completeName = os.path.join(save_path, "mls.json")
 mls = mls_table.json()
 mls = json.dumps(mls)
 with open(completeName,'w') as f:
