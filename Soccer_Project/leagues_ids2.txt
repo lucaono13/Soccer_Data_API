@@ -1,0 +1,946 @@
+World Cup 2018 (World): 1
+Premier League 2018 (England): 2
+Championship 2018 (England): 3
+Ligue 1 2018 (France): 4
+Ligue 2 2018 (France): 5
+Serie A 2018 (Brazil): 6
+Serie B 2018 (Brazil): 7
+Bundesliga 1 2018 (Germany): 8
+Bundesliga 2 2018 (Germany): 9
+Eredivisie 2018 (Netherlands): 10
+Primeira Liga 2018 (Portugal): 11
+Liga de Honra 2018 (Portugal): 12
+J. League Div.1 2018 (Japan): 13
+J. League Div.2 2018 (Japan): 14
+Eliteserien 2018 (Norway): 15
+Ekstraklasa 2018 (Poland): 16
+Premier 2018 (Wales): 17
+Allsvenskan 2018 (Sweden): 18
+Vyscha Liga 2018 (Belarus): 19
+Superligaen 2018 (Denmark): 20
+Eerste Divisie 2018 (Netherlands): 21
+Ligue 1 2017 (France): 22
+Ligue 1 2016 (France): 23
+Ligue 2 2017 (France): 24
+Ligue 2 2016 (France): 25
+Primera Division 2017 (Argentina): 26
+Primera B Nacional 2017 (Argentina): 27
+Serie A 2017 (Italy): 28
+Serie B 2017 (Italy): 29
+Primera Division 2017 (Spain): 30
+Champions League 2017 (World): 31
+Europa League 2017 (World): 32
+Segunda Division 2017 (Spain): 33
+Jupiler Pro League 2018 (Belgium): 34
+Bundesliga 1 2017 (Germany): 35
+Bundesliga 2 2017 (Germany): 36
+Premier League 2017 (England): 37
+Championship 2017 (England): 38
+Jupiler Pro League 2017 (Belgium): 39
+Vyscha Liga 2017 (Belarus): 40
+Serie A 2017 (Brazil): 41
+Serie B 2017 (Brazil): 42
+J. League Div.1 2017 (Japan): 43
+J. League Div.2 2017 (Japan): 44
+Eliteserien 2017 (Norway): 45
+Eredivisie 2017 (Netherlands): 46
+Eerste Divisie 2017 (Netherlands): 47
+Primeira Liga 2017 (Portugal): 48
+Liga de Honra 2017 (Portugal): 49
+Allsvenskan 2017 (Sweden): 50
+Euro Championship 2016 (World): 51
+Champions League 2016 (World): 52
+Europa League 2016 (World): 53
+Bundesliga 1 2016 (Germany): 54
+Bundesliga 2 2016 (Germany): 55
+Premier League 2016 (England): 56
+Championship 2016 (England): 57
+Primera Division 2016 (Argentina): 58
+Primera B Nacional 2016 (Argentina): 59
+Jupiler Pro League 2016 (Belgium): 60
+Vyscha Liga 2016 (Belarus): 61
+Serie A 2016 (Brazil): 62
+Serie B 2016 (Brazil): 63
+Primera Division 2016 (Spain): 64
+Segunda Division 2016 (Spain): 65
+Serie A 2016 (Italy): 66
+Serie B 2016 (Italy): 67
+J. League Div.1 2016 (Japan): 68
+J. League Div.2 2016 (Japan): 69
+Eliteserien 2016 (Norway): 70
+Eredivisie 2016 (Netherlands): 71
+Eerste Divisie 2016 (Netherlands): 72
+Primeira Liga 2016 (Portugal): 73
+Liga de Honra 2016 (Portugal): 74
+Allsvenskan 2016 (Sweden): 75
+Primera Division 2018 (Costa-Rica): 76
+Primera Division 2017 (Costa-Rica): 77
+Primera Division 2016 (Costa-Rica): 78
+Premier 2018 (Iceland): 79
+Premier 2017 (Iceland): 80
+Premier 2016 (Iceland): 81
+Super League 2018 (China): 82
+Super League 2017 (China): 83
+Super League 2016 (China): 84
+A PFG 2018 (Bulgaria): 85
+Primera Division 2018 (Argentina): 86
+Primera Division 2018 (Spain): 87
+Segunda Division 2018 (Spain): 88
+Coppa Italia 2017 (Italy): 89
+Coppa Italia 2016 (Italy): 90
+Premiership 2018 (Scotland): 91
+Premiership 2017 (Scotland): 92
+Premiership 2016 (Scotland): 93
+Serie A 2018 (Italy): 94
+Serie B 2018 (Italy): 95
+Primera B Nacional 2018 (Argentina): 96
+Ligue 1 2017 (Algeria): 97
+Ligue 1 2016 (Algeria): 98
+Ligue 1 2018 (Algeria): 99
+Ligue 2 2017 (Algeria): 100
+Ligue 2 2016 (Algeria): 101
+Ligue 2 2018 (Algeria): 102
+A-League 2017 (Australia): 103
+A-League 2016 (Australia): 104
+A-League 2018 (Australia): 105
+Super League 2017 (Greece): 106
+Super League 2016 (Greece): 107
+Super League 2018 (Greece): 108
+Botola Pro 2017 (Morocco): 109
+Botola Pro 2016 (Morocco): 110
+Ligue Professionnelle 1 2017 (Tunisia): 111
+ Super Lig 2017 (Turkey): 112
+ Super Lig 2016 (Turkey): 113
+ Super Lig 2018 (Turkey): 114
+Botola Pro 2018 (Morocco): 115
+Ligue Professionnelle 1 2018 (Tunisia): 116
+Super League 2017 (Switzerland): 117
+Super League 2016 (Switzerland): 118
+Super League 2018 (Switzerland): 119
+Prva HNL 2018 (Croatia): 120
+Prva HNL 2017 (Croatia): 121
+Prva HNL 2016 (Croatia): 122
+Tipp3 Bundesliga 2017 (Austria): 123
+Tipp3 Bundesliga 2016 (Austria): 124
+Tipp3 Bundesliga 2018 (Austria): 125
+Premier League 2018 (Egypt): 126
+Premier League 2017 (Egypt): 127
+Premier League 2016 (Egypt): 128
+Liga Nacional de Fútbol 2018 (Honduras): 129
+Liga Nacional de Fútbol 2017 (Honduras): 130
+Liga Nacional de Fútbol 2016 (Honduras): 131
+Champions League 2018 (World): 132
+Premier League 2016 (Russia): 133
+Premier League 2017 (Russia): 134
+Premier League 2018 (Russia): 135
+UEFA Nations League 2018 (World): 136
+Europa League 2018 (World): 137
+Primera A 2018 (Colombia): 138
+Primera A 2017 (Colombia): 139
+Primera A 2016 (Colombia): 140
+Serie A 2018 (Ecuador): 141
+Serie A 2017 (Ecuador): 142
+Serie A 2016 (Ecuador): 143
+Veikkausliiga 2018 (Finland): 144
+Veikkausliiga 2017 (Finland): 145
+Veikkausliiga 2016 (Finland): 146
+Primera Division - Apertura 2016 (Paraguay): 147
+Primera Division - Apertura 2017 (Paraguay): 148
+Primera Division - Apertura 2018 (Paraguay): 149
+Copa Do Brasil 2018 (Brazil): 150
+Copa Do Brasil 2017 (Brazil): 151
+Copa Do Brasil 2016 (Brazil): 152
+KNVB Beker 2018 (Netherlands): 153
+KNVB Beker 2017 (Netherlands): 154
+KNVB Beker 2016 (Netherlands): 155
+National 2018 (France): 156
+National 2017 (France): 157
+National 2016 (France): 158
+Liga 3 2018 (Germany): 159
+Liga 3 2017 (Germany): 160
+Liga 3 2016 (Germany): 161
+League One 2016 (England): 162
+League One 2017 (England): 163
+League One 2018 (England): 164
+League Two 2016 (England): 165
+League Two 2017 (England): 166
+League Two 2018 (England): 167
+Championship 2016 (Scotland): 168
+Championship 2017 (Scotland): 169
+Championship 2018 (Scotland): 170
+2e Klasse 2016 (Belgium): 171
+2e Klasse 2017 (Belgium): 172
+2e Klasse 2018 (Belgium): 173
+Erste Liga 2016 (Austria): 174
+Erste Liga 2017 (Austria): 175
+Erste Liga 2018 (Austria): 176
+B PFG 2016 (Bulgaria): 177
+B PFG 2017 (Bulgaria): 178
+B PFG 2018 (Bulgaria): 179
+League One 2016 (China): 180
+League One 2017 (China): 181
+League One 2018 (China): 182
+National Premier Leagues 2016 (Australia): 183
+National Premier Leagues 2017 (Australia): 184
+National Premier Leagues 2018 (Australia): 185
+Primera B 2016 (Colombia): 186
+Primera B 2017 (Colombia): 187
+Primera B 2018 (Colombia): 188
+Druga HNL 2016 (Croatia): 189
+Druga HNL 2017 (Croatia): 190
+Druga HNL 2018 (Croatia): 191
+Africa Cup of Nations 2015 (World): 192
+Africa Cup of Nations 2017 (World): 193
+Africa Cup of Nations 2019 (World): 194
+Asian Cup 2019 (World): 195
+Asian Cup 2015 (World): 196
+Asian Cup 2011 (World): 197
+Coppa Italia 2018 (Italy): 198
+Major League Soccer 2018 (USA): 199
+Major League Soccer 2017 (USA): 200
+Major League Soccer 2016 (USA): 201
+DFB Pokal 2016 (Germany): 202
+DFB Pokal 2017 (Germany): 203
+DFB Pokal 2018 (Germany): 204
+Feminine Division 1 2016 (France): 205
+Feminine Division 1 2017 (France): 206
+Feminine Division 1 2018 (France): 207
+Serie C 2016 (Italy): 208
+Serie C 2017 (Italy): 209
+Serie C 2018 (Italy): 210
+World Cup Women 2015 (World): 211
+World Cup Women 2011 (World): 212
+World Cup Women 2019 (World): 213
+Super League Women 2016 (Belgium): 214
+Super League Women 2017 (Belgium): 215
+Super League Women 2018 (Belgium): 216
+Brasileiro Women 2016 (Brazil): 217
+Brasileiro Women 2017 (Brazil): 218
+Brasileiro Women 2018 (Brazil): 219
+National League 2016 (England): 220
+National League 2017 (England): 221
+National League 2018 (England): 222
+FA WSL 2016 (England): 223
+FA WSL 2017 (England): 224
+FA WSL 2018 (England): 225
+Women Bundesliga 2016 (Germany): 226
+Women Bundesliga 2017 (Germany): 227
+Women Bundesliga 2018 (Germany): 228
+Serie A Women 2016 (Italy): 229
+Serie A Women 2017 (Italy): 230
+Serie A Women 2018 (Italy): 231
+Eredivisie Women 2016 (Netherlands): 232
+Eredivisie Women 2017 (Netherlands): 233
+Eredivisie Women 2018 (Netherlands): 234
+Primera Division Women 2016 (Spain): 235
+Primera Division Women 2017 (Spain): 236
+Primera Division Women 2018 (Spain): 237
+Copa Argentina 2016 (Argentina): 238
+Copa Argentina 2017 (Argentina): 239
+Copa Argentina 2018 (Argentina): 240
+W-League 2016 (Australia): 241
+W-League 2017 (Australia): 242
+W-League 2018 (Australia): 243
+Serie B 2016 (Ecuador): 244
+Serie B 2017 (Ecuador): 245
+Serie B 2018 (Ecuador): 246
+Football National League 2016 (Russia): 247
+Football National League 2017 (Russia): 248
+Football National League 2018 (Russia): 249
+Canadian Soccer League 2017 (Canada): 250
+Canadian Soccer League 2018 (Canada): 251
+National Division 2016 (Luxembourg): 252
+National Division 2017 (Luxembourg): 253
+National Division 2018 (Luxembourg): 254
+Liga De Ascenso 2018 (Costa-Rica): 255
+Viasat Divisionen 2016 (Denmark): 256
+Viasat Divisionen 2017 (Denmark): 257
+Viasat Divisionen 2018 (Denmark): 258
+Ykkonen 2016 (Finland): 259
+Ykkonen 2017 (Finland): 260
+Ykkonen 2018 (Finland): 261
+Football League 2016 (Greece): 262
+Football League 2017 (Greece): 263
+Football League 2018 (Greece): 264
+Division 1 2016 (Iceland): 265
+Division 1 2017 (Iceland): 266
+Division 1 2018 (Iceland): 267
+Segunda Division 2016 (Paraguay): 268
+Segunda Division 2017 (Paraguay): 269
+Segunda Division 2018 (Paraguay): 270
+OBOS-ligaen 2016 (Norway): 271
+OBOS-ligaen 2017 (Norway): 272
+OBOS-ligaen 2018 (Norway): 273
+Superettan 2016 (Sweden): 274
+Superettan 2017 (Sweden): 275
+Superettan 2018 (Sweden): 276
+Challenge League 2016 (Switzerland): 277
+Challenge League 2017 (Switzerland): 278
+Challenge League 2018 (Switzerland): 279
+Division 1 2018 (Wales): 280
+Primera Division - Apertura 2019 (Paraguay): 281
+Copa Do Brasil 2019 (Brazil): 282
+J. League Div.1 2019 (Japan): 283
+J. League Div.2 2019 (Japan): 284
+Primera A 2019 (Colombia): 285
+Serie B 2019 (Ecuador): 286
+Eliteserien 2019 (Norway): 287
+OBOS-ligaen 2019 (Norway): 288
+National Premier Leagues 2019 (Australia): 289
+Superettan 2019 (Sweden): 290
+Allsvenskan 2019 (Sweden): 291
+Serie A 2019 (Ecuador): 292
+Primera B 2019 (Colombia): 293
+Major League Soccer 2019 (USA): 294
+Ykkonen 2019 (Finland): 295
+Super League 2019 (China): 296
+Liga MX 2018 (Mexico): 297
+Liga MX 2017 (Mexico): 298
+Liga MX 2016 (Mexico): 299
+Ascenso MX 2018 (Mexico): 300
+Ascenso MX 2017 (Mexico): 301
+Ascenso MX 2016 (Mexico): 302
+Primera Division 2019 (Chile): 303
+Primera Division 2018 (Chile): 304
+Primera B 2019 (Chile): 305
+Primera B 2018 (Chile): 306
+Primera Division - Apertura 2018 (Uruguay): 307
+Primera Division - Apertura 2017 (Uruguay): 308
+Segunda Division 2018 (Uruguay): 309
+Segunda Division 2017 (Uruguay): 310
+Copa America 2019 (World): 311
+Copa America 2016 (World): 312
+Copa America 2015 (World): 313
+NB I 2018 (Hungary): 314
+NB I 2017 (Hungary): 315
+NB I 2016 (Hungary): 316
+NB II 2018 (Hungary): 317
+NB II 2017 (Hungary): 318
+NB II 2016 (Hungary): 319
+Primera Division - Apertura 2019 (Uruguay): 320
+Copa Argentina 2019 (Argentina): 321
+Vyscha Liga 2019 (Belarus): 322
+Canadian Championship 2018 (Canada): 323
+Canadian Championship 2017 (Canada): 324
+Canadian Championship 2016 (Canada): 325
+Super League 2018 (Indonesia): 326
+Super League 2017 (Indonesia): 327
+Premier League 2018 (Kenya): 328
+Premier League 2018 (Kenya): 329
+Premier League 2017 (Kenya): 330
+Premier League 2016 (Kenya): 331
+Super League 2018 (Kenya): 332
+Super League 2019 (Malaysia): 333
+Super League 2018 (Malaysia): 334
+Super League 2017 (Malaysia): 335
+Super League 2016 (Malaysia): 336
+Premier League 2019 (Malaysia): 337
+Premier League 2018 (Malaysia): 338
+Premier League 2017 (Malaysia): 339
+Premier League 2016 (Malaysia): 340
+Football Championship 2018 (New-Zealand): 341
+Football Championship 2017 (New-Zealand): 342
+Football Championship 2016 (New-Zealand): 343
+Primera Division 2019 (Peru): 344
+Primera Division 2018 (Peru): 345
+Primera Division 2017 (Peru): 346
+Primera Division 2016 (Peru): 347
+Segunda Division 2018 (Peru): 348
+Segunda Division 2017 (Peru): 349
+Segunda Division 2016 (Peru): 350
+Liga I 2018 (Romania): 351
+Liga I 2017 (Romania): 352
+Liga I 2016 (Romania): 353
+Liga II 2018 (Romania): 354
+Liga II 2017 (Romania): 355
+Liga II 2016 (Romania): 356
+Serie A 2019 (Brazil): 357
+Serie B 2019 (Brazil): 358
+Canadian Championship 2019 (Canada): 359
+League One 2019 (China): 360
+Veikkausliiga 2019 (Finland): 361
+Premier 2019 (Iceland): 362
+Super Liga 2016 (Serbia): 363
+Super Liga 2017 (Serbia): 364
+Super Liga 2018 (Serbia): 365
+Prva Liga 2016 (Serbia): 366
+Prva Liga 2017 (Serbia): 367
+Prva Liga 2018 (Serbia): 368
+Premier Soccer League 2016 (South-Africa): 369
+Premier Soccer League 2017 (South-Africa): 370
+Premier Soccer League 2018 (South-Africa): 371
+National First Division 2016 (South-Africa): 372
+National First Division 2017 (South-Africa): 373
+National First Division 2018 (South-Africa): 374
+Persian Gulf Cup 2016 (Iran): 375
+Persian Gulf Cup 2017 (Iran): 376
+Persian Gulf Cup 2018 (Iran): 377
+Azadegan League 2016 (Iran): 378
+Azadegan League 2017 (Iran): 379
+Azadegan League 2018 (Iran): 380
+K-League Classic 2016 (South-Korea): 381
+K-League Classic 2017 (South-Korea): 382
+K-League Classic 2018 (South-Korea): 383
+K-League Classic 2019 (South-Korea): 384
+K-League Challenge 2016 (South-Korea): 385
+K-League Challenge 2017 (South-Korea): 386
+K-League Challenge 2018 (South-Korea): 387
+K-League Challenge 2019 (South-Korea): 388
+Thai Premier League 2016 (Thailand): 389
+Thai Premier League 2017 (Thailand): 390
+Thai Premier League 2018 (Thailand): 391
+Thai Premier League 2019 (Thailand): 392
+Thai League 2 2018 (Thailand): 393
+Thai League 2 2019 (Thailand): 394
+Primera Division 2016 (Venezuela): 395
+Primera Division 2017 (Venezuela): 396
+Primera Division 2018 (Venezuela): 397
+Primera Division 2019 (Venezuela): 398
+Segunda Division 2016 (Venezuela): 399
+Segunda Division 2017 (Venezuela): 400
+Segunda Division 2018 (Venezuela): 401
+Segunda Division 2019 (Venezuela): 402
+Euro Championship 2019 (World): 403
+Arabian Gulf League 2018 (United-Arab-Emirates): 404
+Arabian Gulf League 2017 (United-Arab-Emirates): 405
+Arabian Gulf League 2016 (United-Arab-Emirates): 406
+League Cup 2018 (United-Arab-Emirates): 407
+League Cup 2017 (United-Arab-Emirates): 408
+League Cup 2016 (United-Arab-Emirates): 409
+Liga Panameña de Fútbol 2018 (Panama): 410
+Liga Panameña de Fútbol 2017 (Panama): 411
+Stars League 2018 (Qatar): 413
+Stars League 2017 (Qatar): 414
+Stars League 2016 (Qatar): 415
+2nd Division League 2018 (Qatar): 416
+2nd Division League 2017 (Qatar): 417
+2nd Division League 2016 (Qatar): 418
+Pro League 2018 (Saudi-Arabia): 419
+Pro League 2017 (Saudi-Arabia): 420
+Pro League 2016 (Saudi-Arabia): 421
+Division 1 2018 (Saudi-Arabia): 422
+Division 1 2017 (Saudi-Arabia): 423
+Division 1 2016 (Saudi-Arabia): 424
+Division 2 2018 (Saudi-Arabia): 425
+Division 2 2017 (Saudi-Arabia): 426
+Division 2 2016 (Saudi-Arabia): 427
+Segunda Division 2019 (Uruguay): 429
+Segunda Division 2019 (Peru): 430
+NWSL Women 2019 (USA): 432
+Coupe de la Ligue 2018 (France): 433
+Coupe de la Ligue 2017 (France): 434
+Coupe de la Ligue 2016 (France): 435
+Coupe de France 2018 (France): 436
+Coupe de France 2017 (France): 437
+Coupe de France 2016 (France): 438
+Superliga 2018 (Albania): 442
+1st Division 2018 (Albania): 443
+1a Divisió 2018 (Andorra): 444
+2a Divisió 2018 (Andorra): 445
+Cup 2018 (Bosnia): 446
+Premijer Liga 2018 (Bosnia): 447
+1. Division 2019 (Belarus): 448
+1. Division 2018 (Cyprus): 449
+2. Division 2018 (Cyprus): 450
+3. Division 2018 (Cyprus): 451
+Premier League 2018 (Jamaica): 452
+Botola 2 2018 (Morocco): 453
+Indian Super League 2018 (India): 454
+I-League 2018 (India): 455
+I Liga 2018 (Poland): 456
+Erovnuli Liga 2 2019 (Georgia): 457
+Erovnuli Liga 2019 (Georgia): 458
+Division 1 2019 (Iceland): 459
+Canadian Soccer League 2019 (Canada): 460
+Esiliiga A 2019 (Estonia): 461
+Meistriliiga 2019 (Estonia): 462
+Premier League 2018 (Kuwait): 463
+Division 1 2018 (Kuwait): 464
+Super Liga 2018 (Slovakia): 465
+Pacific Coast Soccer League 2019 (Canada): 466
+TFF 1. Lig 2018 (Turkey): 467
+TFF 2. Lig 2018 (Turkey): 468
+Premier League 2018 (Ukraine): 469
+Persha Liga 2018 (Ukraine): 470
+Primera Division 2018 (Guatemala): 471
+Liga Nacional 2018 (Guatemala): 472
+V.League 1 2019 (Vietnam): 473
+Premier League 2018 (Armenia): 474
+First League 2018 (Armenia): 475
+Primera División 2019 (Bolivia): 476
+Czech Liga 2018 (Czech-Republic): 477
+FNL 2018 (Czech-Republic): 478
+First League 2018 (Montenegro): 479
+Second League 2018 (Montenegro): 480
+Brisbane Premier League 2019 (Australia): 481
+New South Wales NPL 2019 (Australia): 482
+Northern Territory Premier League 2019 (Australia): 483
+South Australia NPL 2019 (Australia): 484
+Victoria NPL 2019 (Australia): 485
+Western Australia NPL 2019 (Australia): 486
+Brasileiro Women 2019 (Brazil): 488
+Segunda Division 2019 (Paraguay): 489
+1st Division 2017 (Albania): 490
+1st Division 2016 (Albania): 491
+Premier Division 2019 (Ireland): 492
+First Division 2019 (Ireland): 493
+1 Lyga 2019 (Lithuania): 494
+A Lyga 2019 (Lithuania): 495
+Superliga 2017 (Albania): 496
+Superliga 2015 (Albania): 497
+1a Divisió 2017 (Andorra): 498
+1a Divisió 2016 (Andorra): 499
+Primera División 2018 (Bolivia): 500
+2a Divisió 2017 (Andorra): 501
+2a Divisió 2016 (Andorra): 502
+First League 2017 (Armenia): 503
+First League 2016 (Armenia): 504
+Premier League 2017 (Armenia): 505
+Premier League 2016 (Armenia): 506
+Super League 2019 (Indonesia): 507
+Primera Division - Clausura 2018 (Paraguay): 508
+Primera Division - Clausura 2017 (Paraguay): 509
+Primera Division - Clausura 2016 (Paraguay): 510
+Premier League 2019 (Russia): 511
+Primera Division - Clausura 2018 (Uruguay): 512
+Primera Division - Clausura 2017 (Uruguay): 513
+Europa League 2019 (World): 514
+Superligaen 2019 (Denmark): 515
+Football National League 2019 (Russia): 516
+Ekstraklasa 2019 (Poland): 517
+USL Championship 2019 (USA): 518
+USL Championship 2018 (USA): 519
+USL Championship 2017 (USA): 520
+USL Championship 2016 (USA): 521
+USL League Two 2019 (USA): 522
+USL League Two 2018 (USA): 523
+Premier League 2019 (England): 524
+Ligue 1 2019 (France): 525
+Ligue 2 2019 (France): 526
+Premier League 2018 (Ethiopia): 527
+Premier League 2017 (Ethiopia): 528
+Premier League 2016 (Ethiopia): 529
+Champions League 2019 (World): 530
+A PFG 2019 (Bulgaria): 531
+Super Liga 2019 (Serbia): 532
+Super Liga 2019 (Slovakia): 533
+Premier League 2019 (Ukraine): 534
+Prva HNL 2019 (Croatia): 535
+1. Liga 2019 (Latvia): 536
+1. Liga 2018 (Latvia): 537
+1. Liga 2017 (Latvia): 538
+1. Liga 2016 (Latvia): 539
+Virsliga 2016 (Latvia): 540
+Virsliga 2017 (Latvia): 541
+Virsliga 2018 (Latvia): 542
+Virsliga 2019 (Latvia): 543
+Division 2 2016 (Iceland): 544
+Division 2 2017 (Iceland): 545
+Division 2 2018 (Iceland): 546
+Division 2 2019 (Iceland): 547
+1. Deild 2016 (Faroe-Islands): 548
+1. Deild 2017 (Faroe-Islands): 549
+1. Deild 2018 (Faroe-Islands): 550
+1. Deild 2019 (Faroe-Islands): 551
+Meistaradeildin 2016 (Faroe-Islands): 552
+Meistaradeildin 2017 (Faroe-Islands): 553
+Meistaradeildin 2018 (Faroe-Islands): 554
+Meistaradeildin 2019 (Faroe-Islands): 555
+Premier League 2016 (Singapore): 556
+Premier League 2017 (Singapore): 557
+Premier League 2018 (Singapore): 558
+Premier League 2019 (Singapore): 559
+Super League 2016 (Uzbekistan): 560
+Super League 2017 (Uzbekistan): 561
+Super League 2018 (Uzbekistan): 562
+Super League 2019 (Uzbekistan): 563
+Liga 2 2019 (Indonesia): 564
+Championship 2019 (England): 565
+Eredivisie 2019 (Netherlands): 566
+I Liga 2019 (Poland): 567
+Tipp3 Bundesliga 2019 (Austria): 568
+Eerste Divisie 2019 (Netherlands): 571
+Championship 2019 (Scotland): 573
+Premiership 2019 (Scotland): 574
+Prva Liga 2019 (Serbia): 575
+Super League 2019 (Switzerland): 576
+Erste Liga 2019 (Austria): 577
+Premijer Liga 2019 (Bosnia): 578
+Czech Liga 2019 (Czech-Republic): 579
+FNL 2019 (Czech-Republic): 580
+League One 2019 (England): 581
+League Two 2019 (England): 582
+DFB Pokal 2019 (Germany): 583
+Liga MX 2019 (Mexico): 584
+Challenge League 2019 (Switzerland): 585
+Liga Nacional 2019 (Guatemala): 586
+Ascenso MX 2019 (Mexico): 587
+Primera Division 2019 (Costa-Rica): 588
+Liga I 2019 (Romania): 589
+1. Division 2018 (Belarus): 590
+1. Division 2017 (Belarus): 591
+1. Division 2016 (Belarus): 592
+Cup 2017 (Bosnia): 593
+Cup 2016 (Bosnia): 594
+Premijer Liga 2017 (Bosnia): 595
+Premijer Liga 2016 (Bosnia): 596
+Primera Division 2018 (El-Salvador): 597
+Primera Division 2017 (El-Salvador): 598
+Primera Division 2016 (El-Salvador): 599
+Primera Division 2015 (El-Salvador): 600
+J. League Div.3 2019 (Japan): 601
+J. League Div.3 2018 (Japan): 602
+J. League Div.3 2017 (Japan): 603
+First League 2018 (Macedonia): 604
+First League 2017 (Macedonia): 605
+First League 2016 (Macedonia): 606
+Second League 2018 (Macedonia): 607
+Second League 2017 (Macedonia): 608
+1. SNL 2019 (Slovenia): 609
+1. SNL 2018 (Slovenia): 610
+2. SNL 2019 (Slovenia): 611
+2. SNL 2018 (Slovenia): 612
+National Football League 2019 (Fiji): 613
+National Football League 2018 (Fiji): 614
+National Football League 2017 (Fiji): 615
+National Football League 2016 (Fiji): 616
+Division d'Honneur 2018 (Guadeloupe): 617
+Division d'Honneur 2017 (Guadeloupe): 618
+Division d'Honneur 2016 (Guadeloupe): 619
+Ligue 1 2018 (Guinea): 620
+Ligue 1 2017 (Guinea): 621
+Ligue 1 2016 (Guinea): 622
+Ligue Haïtienne 2019 (Haiti): 623
+Ligue Haïtienne 2018 (Haiti): 624
+Ligue Haïtienne 2017 (Haiti): 625
+Ligue Haïtienne 2016 (Haiti): 626
+Premier League 2018 (Hong-Kong): 627
+Premier League 2017 (Hong-Kong): 628
+Premier League 2016 (Hong-Kong): 629
+HKFA 1st Division 2018 (Hong-Kong): 630
+HKFA 1st Division 2017 (Hong-Kong): 631
+HKFA 1st Division 2016 (Hong-Kong): 632
+Liga Leumit 2019 (Israel): 633
+Liga Leumit 2018 (Israel): 634
+Liga Leumit 2017 (Israel): 635
+Liga Leumit 2016 (Israel): 636
+Ligat ha'Al 2019 (Israel): 637
+Ligat ha'Al 2018 (Israel): 638
+Ligat ha'Al 2017 (Israel): 639
+Ligat ha'Al 2016 (Israel): 640
+Ligue 1 2018 (Ivory-Coast): 641
+Ligue 1 2017 (Ivory-Coast): 642
+Ligue 1 2016 (Ivory-Coast): 643
+Division 1 2018 (Jordan): 644
+Division 1 2017 (Jordan): 645
+Division 1 2016 (Jordan): 646
+1. Division 2019 (Kazakhstan): 647
+1. Division 2018 (Kazakhstan): 648
+1. Division 2017 (Kazakhstan): 649
+1. Division 2016 (Kazakhstan): 650
+Premier League 2019 (Kazakhstan): 651
+Premier League 2018 (Kazakhstan): 652
+Premier League 2017 (Kazakhstan): 653
+Premier League 2016 (Kazakhstan): 654
+NB I 2019 (Hungary): 655
+Jupiler Pro League 2019 (Belgium): 656
+Premier League 2018 (Lebanon): 657
+Premier League 2017 (Lebanon): 658
+Premier League 2016 (Lebanon): 659
+Super League 2019 (Malawi): 660
+Super League 2018 (Malawi): 661
+First Division 2019 (Malta): 662
+First Division 2018 (Malta): 663
+First Division 2017 (Malta): 664
+First Division 2016 (Malta): 665
+Premier League 2019 (Malta): 666
+Premier League 2018 (Malta): 667
+Premier League 2017 (Malta): 668
+Premier League 2016 (Malta): 669
+Divizia Națională 2019 (Moldova): 670
+Divizia Națională 2018 (Moldova): 671
+Divizia Națională 2017 (Moldova): 672
+Divizia Națională 2016 (Moldova): 673
+Primera Division 2018 (Nicaragua): 674
+Primera Division 2017 (Nicaragua): 675
+Primera Division 2016 (Nicaragua): 676
+Ligue 1 2015 (France): 677
+Ligue 1 2014 (France): 678
+Ligue 1 2013 (France): 679
+Ligue 1 2012 (France): 680
+Ligue 1 2011 (France): 681
+Ligue 1 2010 (France): 682
+Primera Division 2015 (Argentina): 683
+Jupiler Pro League 2015 (Belgium): 684
+Jupiler Pro League 2014 (Belgium): 685
+Jupiler Pro League 2013 (Belgium): 686
+Jupiler Pro League 2012 (Belgium): 687
+Jupiler Pro League 2011 (Belgium): 688
+Jupiler Pro League 2010 (Belgium): 689
+Serie A 2015 (Brazil): 690
+Serie A 2014 (Brazil): 691
+Serie A 2013 (Brazil): 692
+Serie A 2012 (Brazil): 693
+Serie A 2011 (Brazil): 694
+Serie A 2010 (Brazil): 695
+Premier League 2015 (England): 696
+Premier League 2014 (England): 697
+Premier League 2013 (England): 698
+Premier League 2012 (England): 699
+Premier League 2011 (England): 700
+Premier League 2010 (England): 701
+Bundesliga 1 2015 (Germany): 702
+Bundesliga 1 2014 (Germany): 703
+Bundesliga 1 2013 (Germany): 704
+Bundesliga 1 2012 (Germany): 705
+Bundesliga 1 2011 (Germany): 706
+Bundesliga 1 2010 (Germany): 707
+Serie A 2015 (Italy): 708
+Serie A 2014 (Italy): 709
+Serie A 2013 (Italy): 710
+Serie A 2012 (Italy): 711
+Serie A 2011 (Italy): 712
+Serie A 2010 (Italy): 713
+Primera Division - Clausura 2019 (Paraguay): 714
+Persha Liga 2019 (Ukraine): 715
+B PFG 2019 (Bulgaria): 716
+Eredivisie 2015 (Netherlands): 717
+Eredivisie 2014 (Netherlands): 718
+Eredivisie 2013 (Netherlands): 719
+Eredivisie 2012 (Netherlands): 720
+Eredivisie 2011 (Netherlands): 721
+Eredivisie 2010 (Netherlands): 722
+Premier League 2019 (Kenya): 723
+Primeira Liga 2015 (Portugal): 724
+Primeira Liga 2014 (Portugal): 725
+Primeira Liga 2013 (Portugal): 726
+Primeira Liga 2012 (Portugal): 727
+Primeira Liga 2011 (Portugal): 728
+Primeira Liga 2010 (Portugal): 729
+Primera Division 2015 (Spain): 730
+Primera Division 2014 (Spain): 731
+Primera Division 2013 (Spain): 732
+Primera Division 2012 (Spain): 733
+Primera Division 2011 (Spain): 734
+Primera Division 2010 (Spain): 735
+Premiership 2015 (Scotland): 736
+Premiership 2014 (Scotland): 737
+Premiership 2013 (Scotland): 738
+Premiership 2012 (Scotland): 739
+Premiership 2011 (Scotland): 740
+Premiership 2010 (Scotland): 741
+Championship 2015 (Scotland): 742
+Championship 2014 (Scotland): 743
+Championship 2013 (Scotland): 744
+Championship 2012 (Scotland): 745
+Championship 2011 (Scotland): 746
+Championship 2010 (Scotland): 747
+1st Division 2015 (Albania): 748
+World Cup 2014 (World): 749
+World Cup 2010 (World): 750
+Euro Championship 2012 (World): 751
+Euro Championship 2008 (World): 752
+Liga 3 2019 (Germany): 753
+Bundesliga 1 2019 (Germany): 754
+Bundesliga 2 2019 (Germany): 755
+Liga Panameña de Fútbol 2019 (Panama): 756
+Viasat Divisionen 2019 (Denmark): 757
+FA Cup 2019 (England): 758
+FA Cup 2018 (England): 759
+FA Cup 2016 (England): 760
+NB II 2019 (Hungary): 761
+National 2019 (France): 762
+2e Klasse 2019 (Belgium): 763
+National League 2019 (England): 764
+Liga de Honra 2019 (Portugal): 765
+Primeira Liga 2019 (Portugal): 766
+Taça de Portugal 2018 (Portugal): 767
+Taça de Portugal 2017 (Portugal): 768
+Taça de Portugal 2016 (Portugal): 769
+FA WSL 2019 (England): 770
+Women Bundesliga 2019 (Germany): 771
+First League 2019 (Montenegro): 772
+Primera Division 2019 (Guatemala): 773
+Premier Soccer League 2019 (South-Africa): 774
+Primera Division 2019 (Spain): 775
+Segunda Division 2019 (Spain): 776
+Liga De Ascenso 2019 (Costa-Rica): 777
+Premier League 2019 (Armenia): 778
+TFF 1. Lig 2019 (Turkey): 779
+Primera Division 2019 (Argentina): 780
+Premier 2019 (Wales): 781
+ Super Lig 2019 (Turkey): 782
+Coupe de la Ligue 2019 (France): 783
+KNVB Beker 2019 (Netherlands): 784
+Primera Division 2019 (Nicaragua): 785
+1. Division 2019 (Cyprus): 786
+Super League 2019 (Greece): 787
+Feminine Division 1 2019 (France): 788
+Arabian Gulf League 2019 (United-Arab-Emirates): 789
+Girabola 2019 (Angola): 790
+Girabola 2018 (Angola): 791
+Girabola 2018 (Angola): 792
+Cup 2019 (Austria): 793
+Cup 2018 (Austria): 794
+Cup 2017 (Austria): 795
+Cup 2016 (Austria): 796
+Premier League 2019 (Bangladesh): 797
+Premier League 2017 (Bangladesh): 798
+Cup 2018 (Bulgaria): 799
+Cup 2017 (Bulgaria): 800
+Cup 2018 (Greece): 801
+Magyar Kupa 2018 (Hungary): 802
+Friendlies 2019 (World): 803
+NPFL 2019 (Nigeria): 804
+Super League 2019 (Zambia): 805
+Premier Soccer League 2019 (Zimbabwe): 806
+Sudani Premier League 2019 (Sudan): 807
+Copa del Rey 2018 (Spain): 808
+Ligue 1 2018 (Senegal): 809
+Campionato 2018 (San-Marino): 810
+National Soccer League 2018 (Rwanda): 811
+Professional League 2018 (Oman): 812
+Championship 2019 (Northern-Ireland): 813
+Premiership 2019 (Northern-Ireland): 814
+Premier League 2018 (Namibia): 815
+Divizia A 2019 (Moldova): 816
+C-League 2019 (Cambodia): 817
+Elite ONE 2019 (Cameroon): 818
+Premier League 2018 (Botswana): 819
+Super League 2019 (Bhutan): 820
+Premier League 2018 (Bermuda): 821
+Championnat National 2018 (Benin): 822
+Premier League 2018 (Belize): 823
+Premier League 2019 (Belize): 824
+Premier League 2018 (Bahrain): 825
+Birinci Dasta 2018 (Azerbaidjan): 826
+Premyer Liqa 2018 (Azerbaidjan): 827
+Cup 2018 (Azerbaidjan): 828
+NPFL 2018 (Nigeria): 829
+NPFL 2017 (Nigeria): 830
+NPFL 2016 (Nigeria): 831
+Super League 2018 (Zambia): 832
+Super League 2017 (Zambia): 833
+Super League 2016 (Zambia): 834
+Premier Soccer League 2018 (Zimbabwe): 835
+Premier Soccer League 2017 (Zimbabwe): 836
+Premier Soccer League 2016 (Zimbabwe): 837
+Friendlies 2018 (World): 838
+Friendlies 2017 (World): 839
+Sudani Premier League 2017 (Sudan): 840
+Sudani Premier League 2016 (Sudan): 841
+Ligue 1 2017 (Senegal): 842
+Ligue 1 2016 (Senegal): 843
+Campionato 2017 (San-Marino): 844
+Campionato 2016 (San-Marino): 845
+Sudani Premier League 2018 (Sudan): 846
+Elite ONE 2018 (Cameroon): 847
+Elite ONE 2017 (Cameroon): 848
+Elite ONE 2016 (Cameroon): 849
+C-League 2018 (Cambodia): 850
+C-League 2017 (Cambodia): 851
+C-League 2016 (Cambodia): 852
+Birinci Dasta 2017 (Azerbaidjan): 853
+Birinci Dasta 2016 (Azerbaidjan): 854
+Premyer Liqa 2017 (Azerbaidjan): 855
+Premyer Liqa 2016 (Azerbaidjan): 856
+Cup 2017 (Azerbaidjan): 857
+Cup 2016 (Azerbaidjan): 858
+Premier League 2017 (Bahrain): 859
+Premier League 2016 (Bahrain): 860
+Championnat National 2016 (Benin): 861
+Premier League 2017 (Bermuda): 862
+Premier League 2016 (Bermuda): 863
+Super League 2018 (Bhutan): 864
+Super League 2017 (Bhutan): 865
+Super League 2016 (Bhutan): 866
+Premier League 2017 (Botswana): 867
+Premier League 2016 (Botswana): 868
+Coppa Italia 2019 (Italy): 869
+Liga Nacional de Fútbol 2019 (Honduras): 870
+Stars League 2019 (Qatar): 871
+Division 1 2019 (Wales): 873
+Premier League 2016 (Bangladesh): 874
+Primera Division 2019 (El-Salvador): 875
+Copa Chile 2019 (Chile): 876
+FA Cup 2019 (China): 877
+Copa Colombia 2019 (Colombia): 878
+Cup 2018 (Croatia): 879
+Cup 2019 (Belgium): 880
+DBU Pokalen 2019 (Denmark): 881
+Suomen Cup 2018 (Finland): 882
+Cup 2019 (Iceland): 883
+League Cup 2019 (Iceland): 884
+FAI Cup 2019 (Ireland): 885
+League Cup 2019 (Ireland): 886
+State Cup 2018 (Israel): 887
+Toto Cup Ligat Al 2019 (Israel): 888
+J-League Cup 2019 (Japan): 889
+Copa MX 2019 (Mexico): 890
+Serie A 2019 (Italy): 891
+Liga II 2019 (Romania): 892
+Ligue 1 2019 (Algeria): 893
+First League 2019 (Macedonia): 894
+Second League 2019 (Montenegro): 895
+Cup 2019 (Croatia): 896
+Ligue Professionnelle 1 2019 (Tunisia): 897
+Druga HNL 2019 (Croatia): 898
+Primera B Nacional 2019 (Argentina): 899
+Division 1 2019 (Saudi-Arabia): 900
+Pro League 2019 (Saudi-Arabia): 901
+Serie B 2019 (Italy): 902
+First League 2019 (Armenia): 903
+Ligue 2 2019 (Algeria): 904
+Premyer Liqa 2019 (Azerbaidjan): 905
+Superliga 2019 (Albania): 907
+Second League 2019 (Macedonia): 908
+Birinci Dasta 2019 (Azerbaidjan): 909
+Cup 2019 (Greece): 910
+Division d'Honneur 2019 (Guadeloupe): 911
+Premier League 2019 (Hong-Kong): 912
+State Cup 2019 (Israel): 913
+TFF 2. Lig 2019 (Turkey): 914
+League Cup 2019 (United-Arab-Emirates): 915
+Super League Women 2019 (Belgium): 916
+Eredivisie Women 2019 (Netherlands): 917
+Ligue 1 2019 (Ivory-Coast): 918
+Taça de Portugal 2019 (Portugal): 919
+Primera Division Women 2019 (Spain): 920
+2. Division 2019 (Cyprus): 921
+Serie C 2019 (Italy): 922
+Persian Gulf Cup 2019 (Iran): 923
+Premier League 2019 (Botswana): 924
+Botola Pro 2019 (Morocco): 925
+Premier League 2019 (Kuwait): 926
+Botola 2 2019 (Morocco): 927
+Division 1 2019 (Kuwait): 928
+Cup 2019 (Bulgaria): 930
+HKFA 1st Division 2019 (Hong-Kong): 931
+3. Division 2019 (Cyprus): 932
+Premier League 2019 (Jamaica): 933
+Indian Super League 2019 (India): 934
+CONMEBOL Sudamericana 2019 (World): 935
+CAF Champions League 2019 (World): 936
+CONMEBOL Libertadores 2019 (World): 937
+Welsh Cup 2018 (Wales): 938
+Cup 2019 (Ukraine): 939
+Cup 2019 (Turkey): 940
+FA Cup 2019 (Thailand): 941
+Schweizer Pokal 2019 (Switzerland): 942
+Svenska Cupen 2019 (Sweden): 943
+Cup 2019 (Slovenia): 944
+FA Cup 2019 (Scotland): 945
+Challenge Cup 2019 (Scotland): 946
+Cup 2019 (Russia): 947
+Cupa României 2018 (Romania): 948
+Taça da Liga 2019 (Portugal): 949
+Cup 2019 (Poland): 950
+NM Cupen 2019 (Norway): 951
+FA Cup 2019 (South-Korea): 952
+Emperor Cup 2019 (Japan): 953
+Santosh Trophy 2019 (India): 954
+EFL Trophy 2019 (England): 955
+FA Trophy 2019 (England): 956
+League Cup 2019 (England): 957
+Cup 2019 (Czech-Republic): 958
+Cup 2018 (Cyprus): 959

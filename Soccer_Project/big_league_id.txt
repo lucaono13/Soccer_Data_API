@@ -1,0 +1,12 @@
+Serie A:  891
+
+EPL:  524
+
+Bundesliga:  754
+
+Ligue 1:  525
+
+La Liga:  920
+
+MLS:  294
+
