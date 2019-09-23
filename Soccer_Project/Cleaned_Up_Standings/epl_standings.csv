@@ -1,0 +1,21 @@
+Rank,Name,ID,Played,Wins,Draws,Losses,Points,GF,GA,GD,Form
+1,Liverpool,40,5,5,0,0,15,15,4,11,WWWWW
+2,Manchester City,50,5,3,1,1,10,16,6,10,LWWDW
+3,Tottenham,47,5,2,2,1,8,11,6,5,WDLDW
+4,Manchester United,33,5,2,2,1,8,8,4,4,WDLDW
+5,Leicester,46,5,2,2,1,8,6,4,2,LWWDD
+6,Chelsea,49,5,2,2,1,8,11,11,0,WDWDL
+7,Arsenal,42,5,2,2,1,8,8,8,0,DDLWW
+8,West Ham,48,5,2,2,1,8,6,7,-1,DWWDL
+9,Bournemouth,35,5,2,1,2,7,8,9,-1,WLLWD
+10,Southampton,41,5,2,1,2,7,5,6,-1,WDWLL
+11,Everton,45,5,2,1,2,7,5,7,-2,LWLWD
+12,Crystal Palace,52,5,2,1,2,7,3,6,-3,LWWLD
+13,Norwich,71,5,2,0,3,6,9,12,-3,WLLWL
+14,Burnley,44,5,1,2,2,5,6,7,-1,DLDLW
+15,Sheffield Utd,62,5,1,2,2,5,5,6,-1,LDLWD
+16,Brighton,51,5,1,2,2,5,5,8,-3,DLLDW
+17,Aston Villa,66,5,1,1,3,4,4,6,-2,DLWLL
+18,Newcastle,34,5,1,1,3,4,4,8,-4,LDWLL
+19,Wolves,39,5,0,3,2,3,6,10,-4,LLDDD
+20,Watford,38,5,0,2,3,2,4,10,-6,DDLLL

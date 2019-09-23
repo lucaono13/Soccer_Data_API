@@ -1,0 +1,21 @@
+Rank,Name,ID,Played,Wins,Draws,Losses,Points,GF,GA,GD,Form
+1,Paris Saint Germain,85,5,4,0,1,12,11,2,9,WWWLW
+2,Rennes,94,5,3,1,1,10,6,3,3,DLWWW
+3,Nantes,83,5,3,1,1,10,5,3,2,WWWDL
+4,Marseille,81,5,3,1,1,10,7,6,1,WWWDL
+5,Lille,79,5,3,0,2,9,7,5,2,WLWLW
+6,Nice,84,5,3,0,2,9,8,7,1,LWLWW
+7,Angers,77,5,3,0,2,9,9,9,0,LWWLW
+8,Lyon,80,5,2,2,1,8,12,4,8,DDLWW
+9,Bordeaux,78,5,2,2,1,8,7,5,2,WDWDL
+10,Toulouse,96,5,2,2,1,8,6,7,-1,DWLWD
+11,Reims,93,5,2,1,2,7,4,2,2,LWLDW
+12,Montpellier,82,5,2,1,2,7,4,4,0,WLWDL
+13,Stade Brestois 29,106,5,1,3,1,6,3,5,-2,DLWDD
+14,Nimes,92,5,1,2,2,5,6,7,-1,DWDLL
+15,Saint Etienne,1063,5,1,2,2,5,5,8,-3,DLLDW
+16,Amiens,87,5,1,1,3,4,5,8,-3,DLLWL
+17,Metz,112,5,1,1,3,4,4,8,-4,LLLWD
+18,Strasbourg,95,5,0,3,2,3,3,6,-3,LDLDD
+19,Monaco,91,5,0,2,3,2,7,14,-7,LDDLL
+20,Dijon,89,5,0,1,4,1,1,7,-6,DLLLL

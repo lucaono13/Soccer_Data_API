@@ -1,0 +1,19 @@
+Rank,Name,ID,Played,Wins,Draws,Losses,Points,GF,GA,GD,Form
+1,RB Leipzig,173,4,3,1,0,10,10,3,7,DWWW
+2,Borussia Dortmund,165,4,3,0,1,9,13,5,8,WLWW
+3,SC Freiburg,160,4,3,0,1,9,10,3,7,WLWW
+4,Bayern Munich,157,4,2,2,0,8,12,4,8,DWWD
+5,VfL Wolfsburg,161,4,2,2,0,8,7,3,4,DDWW
+6,FC Schalke 04,174,4,2,1,1,7,8,4,4,WWLD
+7,Borussia Monchengladbach,163,4,2,1,1,7,5,4,1,WLWD
+8,Bayer Leverkusen,168,4,2,1,1,7,6,7,-1,LDWW
+9,Eintracht Frankfurt,169,4,2,0,2,6,5,5,0,LWLW
+10,Werder Bremen,162,4,2,0,2,6,8,9,-1,WWLL
+11,Fortuna Dusseldorf,158,4,1,1,2,4,6,7,-1,DLLW
+12,Union Berlin,182,4,1,1,2,4,5,8,-3,LWDL
+13,1899 Hoffenheim,167,4,1,1,2,4,3,6,-3,LDWL
+14,FC Augsburg,170,4,1,1,2,4,6,10,-4,WLDL
+15,FC Koln,192,4,1,0,3,3,4,7,-3,LWLL
+16,FSV Mainz 05,164,4,1,0,3,3,4,13,-9,WLLL
+17,SC Paderborn 07,185,4,0,1,3,1,5,12,-7,LDLL
+18,Hertha Berlin,159,4,0,1,3,1,3,10,-7,LLLD
