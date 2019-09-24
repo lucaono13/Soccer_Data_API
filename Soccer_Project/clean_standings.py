@@ -3,6 +3,7 @@ import json
 import pandas as pd
 from get_league_standing import l_ids
 
+# Function that takes in the league name and cleans up the standings to look presentable. Also prints the standings out at the end (uncomment for this)
 def standings(league_name):
     path_f = "League_Standings/" + str(league_name) + ".json"
     clean_stds = pd.DataFrame(columns = ['Rank','Name','ID','Played','Wins','Draws','Losses','Points','GF','GA','GD','Form'])
@@ -14,9 +15,8 @@ def standings(league_name):
     new_name = "Cleaned_Up_Standings/" + league_name + "_standings.csv"
     clean_stds.set_index('Rank', inplace = True)
     clean_stds.to_csv(new_name)
-    print(clean_stds)
+    # print(clean_stds)
 
-
-
+# Iterates through the get_league_standing.py dictionary to get clean standings
 for i in l_ids:
     standings(l_ids[i])
