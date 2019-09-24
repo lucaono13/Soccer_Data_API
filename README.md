@@ -5,8 +5,7 @@ Getting data from the soccer API (api-football.com)
 Main Folder for Python Folders
 
 ## Set-up League ID Instructions
-  #### Get League IDs
-  ##### Only needs to run once a season (IDs won't change)
+  #### Get League IDs (Only needs to run once a season)
   1) leagues_req.py
   2) usage_league_id.py
 
