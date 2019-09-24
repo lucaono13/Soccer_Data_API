@@ -1,7 +1,7 @@
 import os
 import json
 import pandas as pd
-
+from get_league_standing import l_ids
 
 def standings(league_name):
     path_f = "League_Standings/" + str(league_name) + ".json"
@@ -17,6 +17,6 @@ def standings(league_name):
     print(clean_stds)
 
 
-leagues = ['serie_a','epl','bundes','laliga','ligue1','mls']
-for i in leagues:
-    standings(i)
+
+for i in l_ids:
+    standings(l_ids[i])
