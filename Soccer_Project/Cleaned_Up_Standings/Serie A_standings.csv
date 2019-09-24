@@ -1,0 +1,21 @@
+Rank,Name,ID,Played,Wins,Draws,Losses,Points,GF,GA,GD,Form
+1,Inter,505,4,4,0,0,12,9,1,8,WWWW
+2,Juventus,496,4,3,1,0,10,7,4,3,WDWW
+3,Napoli,492,4,3,0,1,9,13,8,5,WWLW
+4,AS Roma,497,4,2,2,0,8,10,7,3,WWDD
+5,Lazio,487,4,2,1,1,7,7,3,4,WLDW
+6,Atalanta,499,4,2,1,1,7,9,8,1,DWLW
+7,Bologna,500,4,2,1,1,7,7,6,1,LWWD
+8,Sassuolo,488,4,2,0,2,6,10,7,3,WLWL
+9,Cagliari,490,4,2,0,2,6,7,5,2,WWLL
+10,Torino,503,4,2,0,2,6,6,6,0,LLWW
+11,Brescia,518,4,2,0,2,6,5,5,0,WLLW
+12,AC Milan,489,4,2,0,2,6,2,3,-1,LWWL
+13,Verona,504,4,1,1,2,4,3,4,-1,LLWD
+14,Genoa,495,4,1,1,2,4,7,9,-2,LLWD
+15,Parma,523,4,1,0,3,3,4,7,-3,LLWL
+16,Udinese,494,4,1,0,3,3,2,5,-3,LLLW
+17,Spal,493,4,1,0,3,3,4,8,-4,LWLL
+18,Lecce,867,4,1,0,3,3,3,10,-7,LWLL
+19,Sampdoria,498,4,1,0,3,3,2,9,-7,WLLL
+20,Fiorentina,502,4,0,2,2,2,6,8,-2,DDLL
