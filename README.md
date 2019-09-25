@@ -11,8 +11,7 @@ Main Folder for Python Folders
 
 ## Get standings for certain leagues and get a clean table (.csv export)
   1) dict_create.py
-  2) get_league_standing.py
-    * Change leagues dictionary to retrieve certain league standings
+  2) get_league_standing.py( Change leagues dictionary to retrieve certain league standings)
   3) get_standing.py
   4) clean_standings.py
 
@@ -20,4 +19,5 @@ Main Folder for Python Folders
 * Clean up files
 * Create .bat files to run certain files easily
 * Create Tasker task that gets .csv file and spit it out cleanly
+  * Take Tasker variable and use KLWP to output it 
 * Finish README file
