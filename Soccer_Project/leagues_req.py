@@ -13,6 +13,7 @@ leagues1 = leagues.json()
 # Converts leagues1 to JSON string
 leagues2 = json.dumps(leagues1)
 
+
 # Writes JSON string to leagues_avail.json
 with open('leagues_avail.json','w') as text_file:
 	print(leagues2, file = text_file)
